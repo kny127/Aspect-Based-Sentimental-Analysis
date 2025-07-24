@@ -16,7 +16,7 @@ The model is trained on the 2022 AI Language Proficiency Assessment Competition 
  + Sentiment Classes: Positive, Negative, Neutral
 
 ## Performance
-Our model achieves significant improvements over the baseline:   
+The model achieves significant improvements over the baseline:   
 |Model|내용|
 |------|---|
 |Baseline (XLM-RoBERTa)|0.5368|
