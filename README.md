@@ -1,5 +1,5 @@
 # Aspect-Based-Sentimental-Analysis
-This repository contains the implementation of a Dual-Path Model for Aspect-Based Sentiment Analysis (ABSA) on Korean product reviews. The model jointly performs Aspect Category Detection (ACD) and Aspect Sentiment Classification (ASC) using a novel architecture that combines global contextual features from KLUE/RoBERTa with local context understanding through adjacency-masked attention.
+This repository contains the implementation of a Dual-Path Model for Aspect-Based Sentiment Analysis (ABSA) on Korean product reviews. The model jointly performs Aspect Category Detection (ACD) and Aspect Sentiment Classification (ASC) using a architecture that combines global contextual features from KLUE/RoBERTa with local context understanding through adjacency-masked attention.
 
 ## Overview
 The project addresses the task of analyzing sentiment in Korean product reviews at an aspect level. Unlike traditional sentiment analysis that determines overall sentiment, ABSA:   
