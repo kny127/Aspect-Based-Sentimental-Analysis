@@ -19,9 +19,8 @@ The model is trained on the 2022 AI Language Proficiency Assessment Competition 
 The model achieves significant improvements over the baseline:   
 |Model|내용|
 |------|---|
-|Baseline (XLM-RoBERTa)|0.5368|
+|Baseline (XLM-RoBERTa)|0.4985|
 |Dual-Path Model|0.6666|
-|Improvement|+33.72%|
 
 ## Model Architecture
 ### Three-Stage Pipeline:
